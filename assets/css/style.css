@@ -519,6 +519,7 @@ footer span.copyright {
 .item5 { grid-area: smooti; }
 .item6 { grid-area: milk; }
 .item7 { grid-area: cake; }
+.item8 { grid-area: tea; }
 
 .grid-container {
   display: grid;
@@ -526,7 +527,8 @@ footer span.copyright {
     'coffee coffee'
     'hot cold'
     'sharbat smooti'
-    'milk cake';
+    'cake milk'
+    'tea tea';
   grid-gap: 10px;
   padding: 10px;
   background-image: url(b.jpg);
